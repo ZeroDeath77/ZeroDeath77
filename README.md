@@ -67,7 +67,7 @@ Interest in astrophysics, cosmology, mathematics, and quantum physics.
   
   <br>
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ZeroDeath77&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yashpatel137&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 </details>
  
   <details>
@@ -75,7 +75,7 @@ Interest in astrophysics, cosmology, mathematics, and quantum physics.
   
   <br>
   
- [![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeroDeath77&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+ [![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashpatel137&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
  </details>
 
 
@@ -85,7 +85,7 @@ Interest in astrophysics, cosmology, mathematics, and quantum physics.
   
   <br>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroDeath77&layout=compact&theme=dracula&width=600px)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashpatel137&layout=compact&theme=dracula&width=600px)](https://github.com/anuraghazra/github-readme-stats)
 </details>
  
 
