@@ -105,8 +105,8 @@ Interest in astrophysics, cosmology, mathematics, and quantum physics.
  |<i>Programming Languages</i>|
  |----|
  |![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&color=3776AB)|
+ ![Python Badge](https://img.shields.io/badge/-Python-F7DF1E?style=flat-square&logo=Python&logoColor=000&color=F7DF1E)|
  ![Java Badge](https://img.shields.io/badge/-Java-F7DF1E?style=flat-square&logo=Java&logoColor=white&color=3776AB)|
-![Python Badge](https://img.shields.io/badge/-Python-F7DF1E?style=flat-square&logo=Python&logoColor=000&color=F7DF1E)|
  
  <br>
  
