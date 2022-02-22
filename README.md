@@ -85,7 +85,7 @@ Interest in astrophysics, cosmology, mathematics, and quantum physics.
   
   <br>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashpatel137&layout=compact&theme=dracula&width=600px)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashpatel137&layout=compact&theme=highcontrast&width=600px)](https://github.com/anuraghazra/github-readme-stats)
 </details>
  
 
