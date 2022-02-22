@@ -67,7 +67,7 @@ Interest in astrophysics, cosmology, mathematics, and quantum physics.
   
   <br>
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yashpatel137&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yashpatel137&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 </details>
  
   <details>
