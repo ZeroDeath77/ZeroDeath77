@@ -44,7 +44,7 @@
 <br>
 
 <p>
-Programming enthusiast, expertise in C++, Git, Python, and hands-on experience in Linux and cybersecurity. Currently pursuing master's in technology from IIIT Allahabad, scored 98.35 percentile in GATE CSE-2021.
+Programming enthusiast, expertise in C++, Git, Python, and hands-on experience in Linux and cybersecurity. Currently pursuing master's in technology from IIIT Allahabad, scored 98.35 percentile in GATE CSE-2021 (AIR 1683).
 </p>
 
 <br>
