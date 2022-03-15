@@ -37,7 +37,7 @@
  <pre> <b>Hi, I am Yash Patel</b>. 👋</pre>
   
   
-<p>
+<p align="center">
  I am an engineer from <a href="https://en.wikipedia.org/wiki/India"><b>India</b></a> who is passionate about problem solving and taking on challenging tasks.
 </p>
 
@@ -49,7 +49,7 @@ Programming enthusiast, expertise in C++, Git, Python, and hands-on experience i
 
 <br>
 
-<p>
+<p align="center">
 Interest in astrophysics, cosmology, mathematics, and quantum physics.
 </p>
 
