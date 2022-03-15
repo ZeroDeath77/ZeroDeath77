@@ -8,7 +8,7 @@
 <img align="left" alt="Yash | Twitter" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" title="Spot me on Twitter" />
    
 <a href="https://www.facebook.com/profile.php?id=100026957675773">
-<img align="left" alt="Yash's Facebook" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" title="Spot me on Facebook" />
+<img align="left" alt="Yash's Facebook" width="20px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" title="Spot me on Facebook" />
  
 <a href="https://instagram.com/_.__yash._">
 <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Yash's Instagram" width="20" title="Spot me on Instagram"/>
