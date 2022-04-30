@@ -34,7 +34,7 @@
 #### <i>About Me</i>
   
   
- <pre> <b>Hi, I am Yash Patel</b>. 👋</pre>
+ <pre> <b>Hi, I am Yash</b>. 👋</pre>
   
   
 <p align="center">
