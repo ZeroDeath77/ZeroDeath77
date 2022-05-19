@@ -19,9 +19,9 @@
 </a>
  <br>
 
-
- <img align="right" width=50px src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif">
- 
+ <p align="right">
+     <img width=50px src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif">
+ </p>
 
 <br>
  
@@ -60,7 +60,7 @@ Interest in astrophysics, cosmology, mathematics, and quantum physics.
 
 <h4><i>Some more information &nbsp; </i>🏷:-</h4>
 
- <img align="right" width=100px src="https://media.giphy.com/media/YMXLTqI8MWFoEK5vwn/giphy.gif">
+ <img align="right" width=70px src="https://media.giphy.com/media/YMXLTqI8MWFoEK5vwn/giphy.gif">
  
  <details>
   <summary> 📈 &nbsp; <i>My Streak</i></summary>
