@@ -59,9 +59,9 @@ Interest in astrophysics, cosmology, mathematics, and quantum physics.
 
 
 <h4><i>Some more information &nbsp; </i>🏷:-</h4>
-
- <img align="right" width=70px src="https://media.giphy.com/media/YMXLTqI8MWFoEK5vwn/giphy.gif">
- 
+<p align="right">
+ <img width=70px src="https://media.giphy.com/media/YMXLTqI8MWFoEK5vwn/giphy.gif">
+ </p>
  <details>
   <summary> 📈 &nbsp; <i>My Streak</i></summary>
   
