@@ -19,17 +19,13 @@
 </a>
  <br>
 
- <p align="right">
-     <img width=50px src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif">
- </p>
 
 <br>
  
 
+ 
 > Hello Developers & Coders!
  
- 
- <br>
 
 #### <i>About Me</i>
   
@@ -59,9 +55,7 @@ Interest in astrophysics, cosmology, mathematics, and quantum physics.
 
 
 <h4><i>Some more information &nbsp; </i>🏷:-</h4>
-<p align="right">
- <img width=70px src="https://media.giphy.com/media/YMXLTqI8MWFoEK5vwn/giphy.gif">
- </p>
+
  <details>
   <summary> 📈 &nbsp; <i>My Streak</i></summary>
   
