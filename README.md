@@ -16,6 +16,9 @@
 <a href="https://www.linkedin.com/in/yash-patel-17b378159/">
 <img align="left" alt="Yash's LinkedIn" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" title="Connect with me on LinkedIn" />
 
+<a href="https://leetcode.com/saganist/">
+<img align="left" alt="Yash's LeetCode" width="20px" src="leetcode.svg" title="Connect with me on LeetCode" />
+
 </a>
  <br>
 
