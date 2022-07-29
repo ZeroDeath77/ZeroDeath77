@@ -19,6 +19,9 @@
 <a href="https://leetcode.com/saganist/">
 <img align="left" alt="Yash's LeetCode" width="20px" src="leetcode.svg" title="Connect with me on LeetCode" />
 
+<a href="https://auth.geeksforgeeks.org/user/yashpatel0313/profile">
+<img align="left" alt="Yash's GeeksForGeeks" width="20px" src="icons8-geeksforgeeks-480.svg" title="Connect with me on GeeksForGeeks" />
+
 </a>
  <br>
 
