@@ -1,6 +1,6 @@
 <br>
 
-<img src="/Coder.jpg">
+<img src="Coder.jpg">
  
  <br>
  
