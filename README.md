@@ -52,7 +52,7 @@ Programming enthusiast, expertise in C++, Git, Python, and hands-on experience i
 <br>
 
 <p align="center">
-Interest in astrophysics, cosmology, mathematics, and quantum physics.
+Interest in Astrophysics, Cosmology, Mathematics, and Quantum Physics.
 </p>
 
 
